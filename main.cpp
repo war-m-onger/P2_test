@@ -3,6 +3,6 @@
 using namespace std;
 int main()
 {
-	cout << "branch" << endl;
+	cout << "<3" << endl;
 	return 1;
 }
