@@ -2,10 +2,14 @@
 
 using namespace std;
 
+void print()
+{
+	cout << "Hello World" << endl;
+}
+
 int main()
 {
-	cout << "cos cos2" << endl;
+	print();
 	
-	cout << "Hello World" << endl;
 	return 1;
 }
