@@ -3,6 +3,6 @@
 using namespace std;
 int main()
 {
-	cout << "git" << endl;
+	cout << "branch" << endl;
 	return 1;
 }
