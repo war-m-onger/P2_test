@@ -4,8 +4,7 @@ using namespace std;
 
 int main()
 {
-	cout << "cos cos2" << endl;
-	
-	cout << "Hello World" << endl;
+	cout << "Hello World <3" << endl;
+
 	return 1;
 }
