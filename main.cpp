@@ -1,5 +1,6 @@
 #include <iostream>
 
+<<<<<<< HEAD
 using namespace std;
 
 
@@ -13,5 +14,10 @@ int main()
 	print();
 	
 
+=======
+int main()
+{
+	std::cout << "Hello World" << std::endl;
+>>>>>>> parent of efdf994... test
 	return 1;
 }
